@@ -1,4 +1,3 @@
-<!doctype html>
 <html lang="id">
 <head>
   <meta charset="utf-8" />
@@ -17,7 +16,7 @@
       --max-width:1000px;
     }
 
-    *{box-sizing:border-box}
+    *{box-sizing:border-box} 
     html,body{
       height:100%;
       margin:0;
@@ -193,13 +192,13 @@
         <p>
 aku tau kamu udah giat bgt sampe seharian dalam beberapa hari ini. dan skor plagiasi itu malah makin gajelas dan ngeselin ya. gapapa sayang, pasti ada jalan keluarnya walaupun susah. capek itu wajar bgt, nangis juga gapapa banget. kamu udah lakuin yg terbaik dan aku bangga bgt sama kamu dan mama papa kamu juga pasti bangga bgt sama kamu. ILYSM SAYAANGGG MWAAHHH - a BIG hug for oyeenn sayangkuu
         </p>
-        <p style="font-size:13px;color:var(--muted);margin-top:6px;">(saya di sini nemenin kamu, beneran. ngopi? ngemil? curhat dikit?)</p>
+        <p style="font-size:13px;color:var(--muted);margin-top:6px;">(yg terbaik buat kamu yaa, aamiinnnn)</p>
       </section>
 
             <section class="card" aria-labelledby="photo-title">
         <h2 id="photo-title" class="section-title">nihh dari pacar kamu yg ganteng</h2>
         <div class="photo-area">
-                    <img src="https://images.unsplash.com/photo-1542438692-72c687e87b64?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNzcyMTJ8MHwxfHNlYXJjaHw3MHx8S29yZWFuJTIwaWRvbHxlbnwwfHx8fDE3MDYyMjk0MjZ8MA&ixlib=rb-4.0.3&q=80&w=420" width="420" height="560" alt="foto pacar ganteng (Taehyung V)" />
+                    <img src="https://images.unsplash.com/photo-1542438692-72c687e87b64?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNzcyMTJ8MHwxfHNlYXJjaHw3MHx8S29yZWFuJTIwaWRvbHxlbnwwfHx8fDE3MDYyMjk0MjZ8MA&ixlib=rb-4.0.3&q=80&w=420" width="420" height="560" alt="foto pacar kamu yg ganteng " />
           <div class="photo-caption">
             tuuu liat yangg taehyung juga bangga sama kamu pasti dia seneng tuh kalo liat kamu, kata dia bilang 'hwaiting floren' btw aku dm dia bilang kamu ARMY sejati dan lagi bikin artikel tentang BTS ini
           </div>
